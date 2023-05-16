@@ -6,7 +6,8 @@
       "first_name": "Justina",
       "last_name": "Ginglell",
       "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "gender": "Female",
+      "image" : "./1i_img.webp"
     },
     {
       "id": 2,
